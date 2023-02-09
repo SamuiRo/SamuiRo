@@ -1,4 +1,4 @@
-/name SamuiRo
+/name "SamuiRo"
 
 /status "Railway Enjoyer 💞"
 
