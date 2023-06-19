@@ -8,4 +8,4 @@
 
 /interested "I am interested in blockchain technologies ⛓"
 
-/twitter "@EthernalPlane"
+/twitter "@StarLithArs"
