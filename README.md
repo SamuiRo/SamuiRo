@@ -1,6 +1,6 @@
 /name "SamuiRo"
 
-/status "Railway Enjoyer 💞"
+/status "Azure Enjoyer"
 
 /description "Video games are more fun to play than to create 😢"
 
