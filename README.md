@@ -1,10 +1,4 @@
 ```
-> SYSTEM BOOT... OK
-> LOADING USER DATA... OK
-> INITIATING PROFILE... 
-```
-
-```
                                                                                 
    mmmm                                  mm           ##               mm       
  m#""""#     ##                          ##           ""       ##      ##       
@@ -14,25 +8,18 @@
  #mmmmm#"    ##mmm   ##mmm###   ##       ##mmmmmm  mmm##mmm    ##mmm   ##    ## 
   """""       """"    """" ""   ""       """"""""  """"""""     """"   ""    "" 
                                                                                 
-                                                                                
-```
 
-```
-[UNIT_TYPE]........... Developer
-[STATUS].............. Azure Enjoyer  
-[CURRENT_TASK]........ Building things & breaking things
-[PHILOSOPHY].......... "Video games are more fun to play than to create =("
-```
+[UNIT_IDENTIFICATION]............. DEVELOPER UNIT  
+[DESIGNATION]..................... AZURE ENJOYER | BUILDER | GAMER  
+[OPERATING_STATUS]................ ACTIVE  
 
-```javascript
-const currentFocus = {
-  learning: ["Solidity", "Python", "Blockchain tech"],
-  building: ["Web apps", "Game-inspired UIs", "Automation tools"],
-  playing: ["Too many games", "Not enough time"],
-  status: "Turning tea into code"
-};
-```
+[CURRENT_DIRECTIVE]............... Learning Solidity & Python  
+[MISSION_OBJECTIVE]............... Creating things that may not need to exist  
 
-```
-> PROFILE_END
+[BEHAVIORAL_PATTERN].............. "Code by day, game by night"  
+[ENERGY_SOURCE]................... Tea → Code Conversion  
+[RECREATION_MODULE]............... "Too many games, not enough time"  
+
+[PERSONAL_NOTE]................... "Video games are more fun to play than to create =("
+
 ```
