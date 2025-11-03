@@ -10,7 +10,7 @@
 [UNIT_TYPE]........... Developer
 [STATUS].............. Azure Enjoyer  
 [CURRENT_TASK]........ Building things & breaking things
-[PHILOSOPHY].......... "Video games are more fun to play than to create 😢"
+[PHILOSOPHY].......... "Video games are more fun to play than to create =("
 ```
 
 ---
@@ -55,7 +55,7 @@ const currentFocus = {
 
 <div align="center">
 
-**⚡ Fun fact:** This README would be cooler with terminal animations, but GitHub doesn't support them... yet.
+**Fun fact:** This README would be cooler with terminal animations, but GitHub doesn't support them... yet.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=samuiro.samuiro)
 
