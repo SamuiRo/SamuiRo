@@ -4,7 +4,9 @@
 > INITIATING PROFILE... 
 ```
 
-# StarLith
+```
+StarLith
+```
 
 ```
 [UNIT_TYPE]........... Developer
@@ -27,7 +29,7 @@ const currentFocus = {
 ---
 
 ```
-**Twitter:** @StarLithArs  
+Twitter: @StarLithArs  
 ```
 
 ---
