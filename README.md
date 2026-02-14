@@ -10,7 +10,7 @@
                                                                                 
 
 [UNIT_IDENTIFICATION]............. DEVELOPER UNIT  
-[DESIGNATION]..................... AZURE ENJOYER | BUILDER | GAMER  
+[DESIGNATION]..................... TECH ENJOYER | BUILDER | GAMER  
 [OPERATING_STATUS]................ ACTIVE  
 
 [CURRENT_DIRECTIVE]............... Learning Solidity & Python  
